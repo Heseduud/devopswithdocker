@@ -1,0 +1,2 @@
+Had to change enviroment variables for backend and frontend dockerfiles: backend url for frontend and cors-url for backend.
+For docker-compose just changed the directories for building frontend and backend, had to also start with "docker-compose up --build" b/c otherwise compose used old images.

@@ -1,0 +1,1 @@
+Did this exercise using image/dockerfile from 1.11 spring project

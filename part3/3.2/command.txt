@@ -1,0 +1,2 @@
+docker build -t builder .
+docker container run -it -v /var/run/docker.sock:/var/run/docker.sock --rm builder

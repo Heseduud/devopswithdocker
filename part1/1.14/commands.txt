@@ -1,0 +1,2 @@
+docker run -p 5000:5000 frontend-example
+docker run -p 8080:8080 backend-example

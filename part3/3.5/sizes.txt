@@ -1,0 +1,9 @@
+Backend:
+
+FROM golang:1.16 : 1.06GB
+FROM golang:1.16-alpine : 447MB
+
+Frontend:
+
+FROM node:14 : 1.17GB
+FROM node:14-alpine : 334MB
